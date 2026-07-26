@@ -48,6 +48,11 @@ Start with the overview, then go deep per section:
 8. **[07 — Rollout, Build-vs-Buy & Risks](docs/07-rollout-build-vs-buy-risks.md)** — phased plan + risk register
 9. **[08 — Reference Stack](docs/08-reference-stack.md)** — swappable tools by layer
 
+**For sharing & execution:**
+
+- **[09 — Executive Summary (1-page)](docs/09-executive-summary.md)** — the pitch, the ask, 90-day success criteria
+- **[10 — Build Backlog](docs/10-build-backlog.md)** — epics & stories with acceptance criteria, sized and sequenced
+
 > Diagrams are written in **Mermaid** and render natively on GitHub.
 
 ---
